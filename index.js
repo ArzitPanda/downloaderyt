@@ -16,7 +16,7 @@ app.get("/",async (req,res)=>{
 
 
 // res.send("hello this is app");
-
+res.send("<h1>hello</h1>")
 
 
 })
